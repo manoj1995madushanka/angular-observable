@@ -1,0 +1,20 @@
+Observables
+
+is a datasource
+angular uses rxjs observables
+these are asynchronous
+
+for install rxjs
+step 1 -> npm install --save rxjs@6
+step 2 -> npm install --save rxjs-compat
+
+every observable has pipe method
+
+
+Useful Resources:
+
+Official Docs: https://rxjs-dev.firebaseapp.com/
+
+RxJS Series: https://academind.com/learn/javascript/understanding-rxjs/
+
+Updating to RxJS 6: https://academind.com/learn/javascript/rxjs-6-what-changed/
